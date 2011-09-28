@@ -1,0 +1,54 @@
+<style type="text/css" media="screen">
+    .button a {
+        padding: 12px;
+        margin: 12px 0;
+        text-decoration: none;
+        -webkit-background-clip: padding-box;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.296875) 0px 1px 4px 0px;
+        background-attachment: scroll;
+        background-clip: padding-box;
+        background-color: #A02C2C;
+        background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#666), to(#222));
+        background-origin: padding-box;
+        border: 1px solid #222;
+        border-radius: 8px;
+        box-shadow: rgba(0, 0, 0, 0.296875) 0px 1px 4px 0px;
+        color: white;
+        display: inline-block;
+        font-size: 14px;
+        font-weight: bold;
+        margin: 7px 0;
+        position: relative;
+        text-align: center;
+        text-decoration: none;
+        text-shadow: black 1px 1px 1px;
+    }
+    .button a:hover {
+        background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ec1410), to(#910908));
+        border: 1px solid #943130;
+    }
+</style>
+
+
+# Finally
+
+Express your barely-sated impatience at Apple's slovenly attitude towards innovation with this 
+simple Safari extension. Adds choice epithets to headings on [www.apple.com][apple].
+
+## Where do I get it?
+
+Here:
+
+<div class="button">
+    <a href="http://cl.ly/AW6y/Finally.safariextz">Download Finally.safariextz</a>
+</div>
+
+## What does it look like?
+
+This:
+
+![Screenshot][screenshot]
+
+
+[apple]: http://www.apple.com/
+[screenshot]: http://f.cl.ly/items/2042052D2W183N3o2A2W/Finally%20screenshot.png
