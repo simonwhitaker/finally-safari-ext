@@ -40,7 +40,6 @@ for (var i = 0; i < headings.length; i++)
     if (!h.innerText.match("\\.$")) {
         h.innerText = h.innerText + '.';
     }
-    //h1.innerText = h1.innerText + ' ' + epithets[Math.floor(Math.random() * epithets.length)];
     h.innerText = h.innerText + ' ' + epithets[epithet_index];
     
     epithet_index = (epithet_index + 1) % epithets.length;
