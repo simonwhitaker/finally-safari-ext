@@ -3,18 +3,6 @@
 Express your barely-sated impatience at Apple's slovenly attitude towards innovation with this 
 simple Safari extension. Adds choice epithets to headings on [www.apple.com][apple].
 
-## Where do I get it?
-
-Here:
-
-<div class="button">
-    <a href="http://cl.ly/AW6y/Finally.safariextz">Download Finally.safariextz</a>
-</div>
-
-## What does it look like?
-
-This:
-
 ![Screenshot][screenshot]
 
 [apple]: http://www.apple.com/
