@@ -1,4 +1,4 @@
-if (document.getElementById('productheader').length > 0 || document.getElementById('productbrowser').length > 0) {
+if (document.getElementById('productheader') || document.getElementById('productbrowser')) {
     var tags = ['h1', 'h2', 'h3'];
     var headings = [];
 
